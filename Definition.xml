@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject Label="SwipeVarChanger" Description="Change variable by swipe action" PageHeight="100000">
+    <Text Label="VarName" Initial="" Expression=""/>
+    <Text Label="VarValues" Initial="" Expression=""/>
+</ExtensionObject>
